@@ -2,7 +2,7 @@
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me https://www.instagram.com/i_am_debesh/
+- 📫 How to reach me https://www.instagram.com/iamdebesh391/
 
 <!---
 i-am-debesh/i-am-debesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
